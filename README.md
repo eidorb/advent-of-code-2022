@@ -9,3 +9,7 @@ https://adventofcode.com/2022
 - [Day 5](https://nbviewer.org/github/eidorb/advent-of-code-2022/blob/master/day-5.ipynb)
 - [Day 6](https://nbviewer.org/github/eidorb/advent-of-code-2022/blob/master/day-6.ipynb)
 - [Day 7](https://nbviewer.org/github/eidorb/advent-of-code-2022/blob/master/day-7.ipynb)
+- [Day 8](https://nbviewer.org/github/eidorb/advent-of-code-2022/blob/master/day-8.ipynb)
+- [Day 9](https://nbviewer.org/github/eidorb/advent-of-code-2022/blob/master/day-9.ipynb)
+- [Day 10](https://nbviewer.org/github/eidorb/advent-of-code-2022/blob/master/day-10.ipynb)
+- [Day 11](https://nbviewer.org/github/eidorb/advent-of-code-2022/blob/master/day-11.ipynb)
